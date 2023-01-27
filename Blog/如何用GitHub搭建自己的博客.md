@@ -9,7 +9,7 @@ description: Welcome to DanielSun's Blog.
 remote_theme: pages-themes/architect@v0.2.0 #主题名称
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-gem "github-pages", group: :jekyll_plugins'
+gem "github-pages", group: :jekyll_plugins '
 ## 仓库中添加 index.md文件
 index.md 中的内容将会展示到你的博客主页中去。
 ## 访问博客主页
